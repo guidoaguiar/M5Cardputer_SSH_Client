@@ -16,8 +16,8 @@ B: Use the M5Launcher and download the .bin file and put it in the MicroSD card
 Every time it boots it will ask for SSID and its password, and if the connection is successful it will then ask for SSH host, username and password.
 
 ## Planned features
-Save WiFi cred
-scan WiFi
+- Save WiFi cred
+- scan WiFi
 
 ## FYI
 Fell free to contribute.
